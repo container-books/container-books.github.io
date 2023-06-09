@@ -1,1 +1,3 @@
-google.com, pub-6963960833945063, DIRECT, f08c47fec0942fa0
+domain https://container-books.github.io/
+publisher pub-6963960833945063
+adnetwork google
